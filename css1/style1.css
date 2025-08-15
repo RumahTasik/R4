@@ -16,7 +16,6 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
   color: #101010;
-  min-height: 1050px;
 }
 
 /* navbar */
@@ -365,4 +364,5 @@ footer .creadit a:hover {
     font-size: 55%;
   }
 }
+
 
