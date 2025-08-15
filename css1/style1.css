@@ -248,6 +248,41 @@ body {
   margin-top: 6rem;
 }
 
+/* Footer */
+footer {
+  background-color: var(--bg);
+  text-align: center;
+  padding: 1rem 0;
+  margin: 3rem;
+}
+
+footer .social {
+  padding: 1rem 0;
+}
+
+footer .social a {
+  color: #fff;
+  margin: 1rem;
+}
+
+footer .social a:hover {
+  color: var(--primary);
+}
+
+footer .creadit {
+  color: #fff;
+  font-weight: 500;
+}
+
+footer .creadit a {
+  color: #fff;
+}
+
+footer .creadit a:hover {
+  color: var(--primary);
+}
+
+
 /* media queries*/
 
 /* Laptop */
@@ -330,3 +365,4 @@ body {
     font-size: 55%;
   }
 }
+
